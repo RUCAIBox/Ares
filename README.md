@@ -125,8 +125,8 @@ If you use Ares, please cite the accompanying paper:
 ```bibtex
 @inproceedings{chen2026ares,
   title     = {Spectral-Driven Adaptive-Rank Optimizer for Large Language Model Reinforcement Learning with Verifiable Rewards},
-  author    = {Chen, Zhipeng and Hao, Chuan and Zhao, Wayne Xin and Tao, Ran and Dai, Bryan and Yang, Jian and Wen, Ji-Rong},
-  journal   = {arXiv preprint arXiv:2610.xxxxxx},
+  author    = {Chen, Zhipeng and Zhao, Wayne Xin and Wen, Ji-Rong},
+  journal   = {arXiv preprint arXiv:2610.16533},
   year      = {2026}
 }
 ```
